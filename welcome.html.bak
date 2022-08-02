@@ -3,9 +3,9 @@ code dans la branche master
 <h1>Gestion des branches avec github</h1>
 
 <h2>Cas de plusieurs remote(distant) repo liés à un repo local</h2>
-
+<<<<<<< HEAD
 <h2>Ligne Samir DJELLOUT</h2>
-
+=======
 
 Ola amigo from Ludovic
-
+>>>>>>> cce9e97ea83a7aa5a6326a98d0e65d468512744d
